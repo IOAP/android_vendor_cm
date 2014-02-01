@@ -6,6 +6,8 @@ Visit http://github.com/IOAP for full source and git access.
 CHANGELOG (notable new features)
 ---------
  
+Rebase v3
+
 Merge CM latest Changes
 Add center clock (1/2)
 Forward port AM/PM Style Settings
