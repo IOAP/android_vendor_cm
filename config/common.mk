@@ -133,7 +133,6 @@ PRODUCT_PACKAGES += \
     VoiceDialer \
     SoundRecorder \
     libemoji \
-    ScreenRecorder \
     libscreenrecorder
 
 # Custom CM packages
@@ -152,6 +151,7 @@ PRODUCT_PACKAGES += \
     blackout \
     appsetting \
     xposed_installer \
+    ScreenRecorder \
     WhisperPush
 
 # CM Hardware Abstraction Framework
